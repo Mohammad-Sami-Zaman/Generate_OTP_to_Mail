@@ -36,3 +36,7 @@ A full-stack **Email OTP Verification System** built using **HTML, CSS, JavaScri
 5. Verification successful
 
 ---
+
+## 🌐 Live Demo
+
+🔗 [https://generate-otp-to-mail.vercel.app](https://generate-otp-to-mail.vercel.app?_vercel_share=kSGeFjDBwYqTqY651a7f5qGlYjLsIkXd)
