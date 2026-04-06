@@ -36,5 +36,3 @@ A full-stack **Email OTP Verification System** built using **HTML, CSS, JavaScri
 5. Verification successful
 
 ---
-
-## 📂 Project Structure
